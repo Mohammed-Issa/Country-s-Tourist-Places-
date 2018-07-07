@@ -1,0 +1,100 @@
+1*Hong Kong*Hong Kong*23.7
+2*Singapore*Singapore*21.3
+3*Bangkok*Thailand*15.8
+4*London*UK*15.5
+5*Macau*Macau*13.4
+6*Kuala Lumpur*Malaysia*13.3
+7*Shenzhen*China*12.1
+8*New York City*USA*11.6
+9*Antalya*Turkey*10.3
+10*Paris*France*9.8
+11*Istanbul*Turkey*8.8
+12*Rome*Italy*8.7
+13*Dubai*UAE*8
+14*Guangzhou*China*7.9
+15*Phuket*Thailand*7.2
+16*Mecca	*Saudi Arabia*6.9
+17*Pattaya*Thailand*6.6
+18*Taipei City*Taiwan*6.6
+19*Prague*Czech Republic*6.5
+20*Shanghai*China*6.5
+21*Las Vegas*USA*6.3
+22*Miami*USA*6
+23*Barcelona*Spain*5.5
+24*Moscow*Russia*5
+25*Beijing*China*5
+26*Los Angeles*USA*5
+27*Budapest*Hungary*4.8
+28*Vienna*Austria*4.3
+29*Amsterdam*Netherlands*4.3
+30*Sofia*Bulgaria*4.1
+31*Madrid*Spain*4.1
+32*Orlando*USA*4.1
+33*Ho Chi Minh City*Vietnam*3.9
+34*Lima*Peru*3.8
+35*Berlin*Germany*3.8
+36*Tokyo*Japan*3.7
+37*Warsaw*Poland*3.7
+38*Chennai*India*3.5
+39*Cairo*Egypt*3.5
+40*Nairobi*Kenya*3.4
+41*Hangzhou*China*3.4
+42*Milan*Italy*3.3
+43*San Francisco*USA*3.2
+44*Buenos Aires*Argentina*3.2
+45*Venice*Italy*3.2
+46*Mexico City*Mexico*3.1
+47*Dublin*Ireland*3.1
+48*Seoul*South Korea*3
+49*Mugla*Turkey*3
+50*Mumbai*India*3
+51*Denpasar*Indonesia*3
+52*Delhi*India*2.9
+53*Toronto*Canada*2.8
+54*Zhuhai*China*2.7
+55*St Petersburg*Russia*2.7
+56*Burgas*Bulgaria*2.7
+57*Sydney*Australia*2.7
+58*Djerba*Tunisia*2.6
+59*Munich*Germany*2.6
+60*Johannesburg*South Africa*2.6
+61*Cancun*Mexico*2.6
+62*Edirne*Turkey*2.6
+63*Suzhou*China*2.5
+64*Bucharest*Romania*2.4
+65*Punta Cana*Dominican Republic*2.4
+66*Agra*India*2.4
+67*Jaipur*India*2.3
+68*Brussels*Belgium*2.3
+69*Nice*France*2.2
+70*Chiang Mai*Thailand*2.2
+71*Sharm el-Sheikh*Egypt*2.2
+72*Lisbon*Portugal*2.2
+73*East Province*Saudi Arabia*2.2
+74*Marrakech*Morocco*2.1
+75*Jakarta*Indonesia*2.1
+76*Manama*Bahrain*2
+77*Hanoi*Vietnam*2
+78*Honolulu*USA*2
+79*Manila*Philippines*2
+80*Guilin*China*2
+81*Auckland*New Zealand*2
+82*Siem Reap*Cambodia*1.9
+83*Sousse*Tunisia*1.9
+84*Amman*Jordan*1.9
+85*Vancouver*Canada*1.9
+86*Abu Dhabi*UAE*1.9
+87*Kiev*Ukraine*1.9
+88*Doha*Qatar*1.9
+89*Florence*Italy*1.8
+90*Rio de Janeiro*Brazil*1.8
+91*Melbourne*Australia*1.8
+92*Washington D.C.*USA*1.7
+93*Riyadh*Saudi Arabia*1.7
+94*Christchurch*New Zealand*1.7
+95*Frankfurt*Germany*1.7
+96*Baku*Azerbaijan*1.7
+97*Sao Paulo*Brazil*1.7
+98*Harare*Zimbabwe*1.7
+99*Kolkata*India*1.6
+100*Nanjing*China*1.6
